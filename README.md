@@ -8,7 +8,8 @@ Add something like this to your .pre-commit-config.yaml
 
 ```yml
  - repo: https://github.com/mbaeum/pre-commit-hooks-mirror-conda
-   rev: ''
+   rev: '4.0.1' # add tag here
    hooks:
     - id: trailing-whitespace
 ```
+For all available hooks check .pre-commit-hooks.yaml
