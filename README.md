@@ -1,5 +1,5 @@
 # pre-commit-hooks-mirror-conda
-Mirror of black for pre-commit with conda as a language.
+Mirror of pre-commit-hooks for pre-commit with conda as a language.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit For pre-commit-hooks: see https://github.com/pre-commit/pre-commit-hooks
 
