@@ -7,8 +7,8 @@ Using pre-commit-hooks with pre-commit and conda:
 Add something like this to your .pre-commit-config.yaml
 
 ```yml
-- repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v4.0.1  # Use the ref you want to point at
-  hooks:
-  -   id: trailing-whitespace
+ - repo: https://github.com/mbaeum/pre-commit-hooks-mirror-conda
+   rev: ''
+   hooks:
+    - id: trailing-whitespace
 ```
